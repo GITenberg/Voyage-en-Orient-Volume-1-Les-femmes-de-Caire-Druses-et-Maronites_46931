@@ -30,5 +30,7 @@ language: fr
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Voyage en Orient, Volume 1: Les femmes de Caire - Druses et Maronites'
 url: http://www.gutenberg.org/ebooks/46931
